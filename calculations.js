@@ -79,7 +79,7 @@ for (let i = 1; i < multipliers.length + 1; i++) {
             cell.style.backgroundColor = "#F5A3B2";
             cell.style.padding = cellPadding;
             cell.textContent = `${i} x ${a} = ${i * a}`;
-        } else if (a <= 10) {
+        } else {
             const cell = document.createElement("td");
             table.appendChild(row);
             row.appendChild(cell);
