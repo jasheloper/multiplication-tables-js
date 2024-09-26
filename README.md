@@ -9,3 +9,5 @@ Like Challenge #1, can you create an efficient solution that you could easily ex
 ## Demo
 
 https://jasheloper.github.io/multiplication-tables-js/
+
+![demo for Print a table containing multiplication tables](demo.png)
