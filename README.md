@@ -5,3 +5,7 @@ Let’s start with the tables that many of us had to memorize in school. Can you
 Like Challenge #1, can you create an efficient solution that you could easily expand should you need the 12 times table?
 
 **Challenge Source:** https://www.codecademy.com/resources/blog/10-javascript-code-challenges-for-beginners/
+
+## Demo
+
+https://jasheloper.github.io/multiplication-tables-js/
