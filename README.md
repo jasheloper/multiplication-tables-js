@@ -6,7 +6,9 @@ Like Challenge #1, can you create an efficient solution that you could easily ex
 
 **Challenge Source:** https://www.codecademy.com/resources/blog/10-javascript-code-challenges-for-beginners/
 
-## Demo
+<br>
+
+## Desktop Demo
 
 https://jasheloper.github.io/multiplication-tables-js/
 
